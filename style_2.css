@@ -1,0 +1,26 @@
+/* Aca se le dará estilo a todos los títulos */
+
+
+h2{
+    /* text-align: left; */
+    /* text-align: right; */
+    text-align: center;
+    /* text-align: start; */
+    /* text-align: end;  */
+}
+
+/* Acá se le dará estilo a todos los párrafos */
+
+
+
+
+
+/* Acá se le dará estilo a todas las tablas */
+div{
+    width: 600px;
+    height: 200px;
+    border:2px solid black;
+    padding: 10px;
+}
+
+/* Acá se le dará estilo general */

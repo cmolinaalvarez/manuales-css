@@ -1,0 +1,42 @@
+div{
+    width: 180px;
+    height: 50px;
+    border:2px solid black;
+    padding: 20px;
+    margin: 5px;
+    /* text-decoration: overline red 5px wavy;  se puede tener en todos los divs el mismo text-decoration*/ 
+}
+
+.overline{
+    /* text-decoration-line: overline; */
+    /* text-decoration-color: red; */
+    /* text-decoration-style:wavy;  */
+    /* text-decoration-style:solid; */
+    /* text-decoration-style:doble; */
+    /* text-decoration-style:dotted; */
+    /* text-decoration-style:dashed; */
+    /* text-decoration-thickness: 10px; ancho */
+
+    text-decoration: overline red 5px wavy;
+}
+
+.line-through{
+    /* text-decoration-line: line-through; */
+    /* text-decoration-color: yellow; */
+    /* text-decoration-thickness: 10px; ancho */
+
+    text-decoration: line-through yellow 10px solid;
+}
+
+.underline{
+    /* text-decoration-line: underline; */
+    /* text-decoration-style: dotted; */
+
+    text-decoration: underline dotted;
+}
+
+.mix{
+    /* text-decoration-line: underline overline; */
+    text-decoration: underline overline;
+    /* text-decoration: none; puede existir un div sin text-decoration*/
+}

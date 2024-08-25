@@ -1,0 +1,39 @@
+div{
+    width: 500px;
+    /* height: 200px; */
+    height: auto;
+    border:2px solid black;
+    padding: 20px;
+    margin: 5px;  
+}
+
+p{
+    text-indent: 50px;
+    letter-spacing: 0.5px;
+    line-height: 1.5; /* Está en formato factor */
+    word-spacing: 1.5px;
+    /* white-space: nowrap;  Este es polémico*/
+    text-shadow: 2px 2px 2px rgb(206, 204, 204); /* el primer parámetro es lo que se corre de forma horizontal (2px), el segundo parámetro hacia abajo (2px).
+                                    Estos dos parametros en positivo se mueve hacia la derecha y hacia abajo.
+                                    Estos dos parámetros en negativo se mueve hacia la izquierda y hacia arriba.
+                                    El tercer valor es el desenfoque (2px)
+                                 */
+                                
+
+}
+
+
+h4{
+    text-indent: 50px;
+    letter-spacing: 0.5px;
+    line-height: 1.5; /* Está en formato factor */
+    word-spacing: 1.5px;
+    /* white-space: nowrap;  Este es polémico*/
+    text-shadow: -2px -2px 2px rgb(192, 190, 190); /* el primer parámetro es lo que se corre de forma horizontal (2px), el segundo parámetro hacia abajo (2px).
+                                    Estos dos parametros en positivo se mueve hacia la derecha y hacia abajo.
+                                    Estos dos parámetros en negativo se mueve hacia la izquierda y hacia arriba.
+                                    El tercer valor es el desenfoque (2px)
+                                 */
+                                
+
+}
