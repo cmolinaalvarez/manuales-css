@@ -12,11 +12,11 @@
 10. Tablas: ver index_10.html y style_10.css 
 11. Colores: ver index_11.html y style_11.css
     Páginas de paletas de colores: https://www.color-hex.com/color-palettes/ , https://color.adobe.com/ , http://colormind.io/, https://www.behance.net/
+12. Backgound: ver index_12.html y style_12.css
 
 
 
-
-15. ¿Qué tan importante es el diseño web?
+13. ¿Qué tan importante es el diseño web?
 
     El diseño web se puede definir como la cara visible de la página. La estructura, la imagen y la forma serían los elementos clave que tiene en cuenta este factor. Los principales objetivos del diseño de un sitio web son, a grandes rasgos, dos: una buena estética y una óptima experiencia del usuario, todo ello con el único fin de comunicar algo a nuestro usuario. En general, el diseño web busca crear un diseño sencillo y perfectamente explicado para cubrir estos dos objetivos.
 
